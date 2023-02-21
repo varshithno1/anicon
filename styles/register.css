@@ -3,10 +3,10 @@
     flex-direction: column;
     /* justify-content: center;
     align-items: center; */
-    max-width: 1300px;
+    max-width: 900px;
     background-color: rgb(0, 95, 95);
     margin: 10vh auto;
-    height: 70vh;
+    height: 60vh;
     padding: 50px;
     border-radius: 20px;
 }
