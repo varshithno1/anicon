@@ -1,0 +1,11 @@
+footer{
+    float: bottom;
+}
+
+.footercont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(17, 19, 27);
+    bottom: 0;
+}

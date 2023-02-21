@@ -46,22 +46,14 @@
     height: 90vh;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
-}
-
-footer{
-    float: bottom;
-}
-
-.footercont{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: rgb(0, 99, 99);
-    bottom: 0;
 }
 
 img {
     -webkit-box-reflect: below 1px linear-gradient(to top, rgba(0,0,0,0.6), rgba(0,0,0,0) 15%);
+}
+
+.details{
+    font-size: 70px;
 }
